@@ -1,0 +1,45 @@
+support to Biden: 2270
+support to Trump: 2730				tag_trump	tag_biden
+CA for Trump:165; 	Biden:210		16224		11404
+FL for Trump:61; 	Biden:67		8757		6944
+GA for Trump:15; 	Biden:7			1338		1424	
+IL for Trump:41; 	Biden:31		3324		2541
+MI for Trump:20; 	Biden:7			1521		1419
+NY for Trump:121; 	Biden:95		11644		9134
+NC for Trump:34; 	Biden:13		1779		1506
+OH for Trump:19; 	Biden:16		1923		2135
+PA for Trump:31; 	Biden:21		3824		2552
+TX for Trump:64; 	Biden:62		7714		6991
+
+
+
+
+CA for Trump:7138 	Biden:9086		16224	
+FL for Trump:4173 	Biden:4584		8757	
+GA for Trump:912 	Biden:426		1338	
+IL for Trump:1892 	Biden:1432		3324	
+MI for Trump:1127 	Biden:394		1521	
+NY for Trump:6523 	Biden:5121		11644	
+NC for Trump:1287 	Biden:492		1779	
+OH for Trump:1044 	Biden:879		1923	
+PA for Trump:2280 	Biden:1544		3824	
+TX for Trump:3918 	Biden:3796		7714	
+
+342511 total
+216187 empty
+125324
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
